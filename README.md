@@ -47,5 +47,5 @@ strict = True
 
 ## Notes
 
-This project was built using a Dev Container which came with all the tools need to build and lint a basic python app.
+This project was built using a Dev Container which came with all the tools needed to build and lint a basic python app.
 
